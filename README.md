@@ -1,2 +1,2 @@
 # Mybow.github.io
-个人博客
+响应式机车网页
